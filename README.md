@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://sonar.xsenonn.com/api/project_badges/measure?project=django.nV&metric=alert_status&token=sqb_1af8f2b22d27b93af0d996a40e3af8e1ba1dc853)](https://sonar.xsenonn.com/dashboard?id=django.nV)
 django.nV
 =========
 
